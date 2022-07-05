@@ -1,5 +1,3 @@
-## Welcome to lyteforce dot ca
+## lyteforce dot ca
 
 The cake is a lie!
-
-
